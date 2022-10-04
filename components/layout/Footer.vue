@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full border-b-[1px]">
+  <div class="w-full border-b-[1px] border-t-[1px]">
     <div class="mx-auto w-screen max-w-[1280px]">
       <ul class="py-5 text-xs font-light leading-4 text-[#777777] md:flex">
         <li class="px-0 font-bold md:pr-4 md:pl-2">

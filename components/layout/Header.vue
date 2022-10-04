@@ -44,7 +44,7 @@
   <div
     id="sidebar"
     ref="sidebar"
-    class="grid fixed top-0 right-0 z-40 py-7 px-5 w-screen bg-white/90 border-b transition-all duration-200 ease-in-out md:hidden md:top-auto md:right-auto"
+    class="hidden grid fixed top-0 right-0 z-40 py-7 px-5 w-screen bg-white/90 border-b transition-all duration-200 ease-in-out md:hidden md:top-auto md:right-auto"
   >
     <button
       ref="trigger"
